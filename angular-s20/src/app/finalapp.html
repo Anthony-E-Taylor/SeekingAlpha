@@ -1,0 +1,95 @@
+|<div class="container">
+
+
+    <h6><i> {{title}}: {{ fileForm.value.thinglist }} </i></h6>
+    <br /> <hr /> <br />
+
+    <div class='row d-flex justify-content-center'>
+        <form #fileForm="ngForm" (ngSubmit)="onSubmit(fileForm.value);">
+            <!--
+       <div class="form-group">
+         <label for="file-input"></label>
+         <input id="file-input" type="file" name="thinglist"
+                required
+                #thinglist="ngModel"
+                [class.is-invalid]="thinglist.invalid && thinglist.touched"
+                [(ngModel)]="ThingtobuyModel.thinglist">
+           <small class="text-danger" [class.d-none]="thinglist.valid || thinglist.untouched">Filename requried</small>
+
+       </div>
+    -->
+
+            <div class="form-group">
+                <select title=" Choose local xml_file..."
+                        required
+                        #thinglist="ngModel"
+                        [(ngModel)]="ThingtobuyModel.thinglist"
+                        name="thinglist">
+                    <option value="" selected>Choose Local XML_File... </option>
+                    <option *ngFor="let file of files">
+                        {{ file.file }}
+                    </option>
+                </select><br />
+                <small class="text-danger" [class.d-none]="thinglist.valid || thinglist.untouched">Filename requried</small>
+            </div>
+
+            <form #shoppingList="ngForm" (ngSubmit)="onSubmit(shoppingList.value)">
+                <div class="form-group">
+                    <label>Thing to buy: </label>
+                    <input type="text" class="form-control" name="thing"
+                           required
+                           #name="ngModel"
+                           [class.is-invalid]="thing.invalid && thing.touched"
+                           [(ngModel)]="thingModel.thing">
+                    <small class="text-danger" [class.d-none]="thing.valid || thing.untouched">Thing to buy is requried</small>
+                </div>
+
+
+
+
+
+                <div class="form-group">
+                    <label>Quantity: </label>
+                    <input type="number" class="form-control" name="quantity" min="0"
+                           required
+                           #quantity="ngModel"
+                           [class.is-invalid]="quantity.invalid && quantity.touched"
+                           [(ngModel)]="thingModel.quantity">
+                    <small class="text-danger" [class.d-none]="quantity.valid || quantity.untouched">Quantity is required </small>
+                </div>
+                <button class="btn-block btn-outline-info"
+                        (click)="confirmFile(fileForm.value)"
+                        title="Extract Data From  {{ fileForm.value.thinglist }}">
+                    <i>Load File: {{ fileForm.value.thinglist }} </i>
+                </button>
+
+                &nbsp;&nbsp;&nbsp;&nbsp;
+
+                <!--  <button type="submit" class="btn btn-success"
+                  [disabled]="!fileForm.form.valid"
+                  title="enabled once the form is valid">Submit</button>
+        -->
+            </form>
+</div>
+    <hr />
+     <strong>   Data binding from model: </strong>
+            {{ confirm_msg }} </> <strong> {{ xml_file }} </strong> <strong> {{ phone_num }} </strong>
+
+    <hr />
+    
+        Data binding from view: 
+            {{ data_submitted | json }}
+        
+    <hr />
+
+        Response from PHP:
+            <!-- If confirm_msg is not empty, display the response from the PHP backend. -->
+            {{ (xml_file.length > 0)? (responsedata | json) : 'Display response from PHP backend' }}
+
+
+</div>
+
+
+<br />
+<br />
+<br />
