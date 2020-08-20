@@ -1,0 +1,2803 @@
+<?xml version='1.0' ?>
+<asOf>1969-12-31
+	<stock id="1">
+		 <ticker>UNCFF </ticker>
+		 <exchange>OTCPK</exchange>
+		 <currency></currency>
+		 <dividend></dividend>
+		 <distribution></distribution>
+		 <yield></yield>
+		 <sec></sec>
+		 <payable></payable>
+		 <record></record>
+		 <ex_dividend></ex_dividend>
+		 <timestamp>2020-03-29 18:11</timestamp>
+		 <fund>Following the ECB's recommendation on 27 March 2020 to not pay dividends until at least October 2020,?UniCredit S.p.A.</fund>
+	</stock>
+	<stock id="2">
+		 <ticker>LZB </ticker>
+		 <exchange>NYSE</exchange>
+		 <currency></currency>
+		 <dividend></dividend>
+		 <distribution></distribution>
+		 <yield></yield>
+		 <sec></sec>
+		 <payable></payable>
+		 <record></record>
+		 <ex_dividend></ex_dividend>
+		 <timestamp>2020-03-29 17:20</timestamp>
+		 <fund>La-Z-Boy</fund>
+	</stock>
+	<stock id="3">
+		 <ticker>EC </ticker>
+		 <exchange>NYSE</exchange>
+		 <currency></currency>
+		 <dividend></dividend>
+		 <distribution></distribution>
+		 <yield></yield>
+		 <sec></sec>
+		 <payable></payable>
+		 <record></record>
+		 <ex_dividend></ex_dividend>
+		 <timestamp>2020-03-29 03:32</timestamp>
+		 <fund>Ecopetrol S.A.</fund>
+	</stock>
+	<stock id="4">
+		 <ticker>RWT </ticker>
+		 <exchange>NYSE</exchange>
+		 <currency></currency>
+		 <dividend></dividend>
+		 <distribution></distribution>
+		 <yield></yield>
+		 <sec></sec>
+		 <payable></payable>
+		 <record></record>
+		 <ex_dividend></ex_dividend>
+		 <timestamp>2020-03-28 13:24</timestamp>
+		 <fund>Redwood Trust</fund>
+	</stock>
+	<stock id="5">
+		 <ticker>MITT </ticker>
+		 <exchange>NYSE</exchange>
+		 <currency></currency>
+		 <dividend></dividend>
+		 <distribution></distribution>
+		 <yield></yield>
+		 <sec></sec>
+		 <payable></payable>
+		 <record></record>
+		 <ex_dividend></ex_dividend>
+		 <timestamp>2020-03-27 23:34</timestamp>
+		 <fund>AG Mortgage Investment Trust</fund>
+	</stock>
+	<stock id="6">
+		 <ticker>T.PC </ticker>
+		 <exchange>NYSE</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.2408</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>4.430</yield>
+		 <sec></sec>
+		 <payable>2020-05-01</payable>
+		 <record>2020-04-09</record>
+		 <ex_dividend>2020-04-08</ex_dividend>
+		 <timestamp>2020-03-27 17:11</timestamp>
+		 <fund>AT&amp;T Inc. 4.750% PFD SER C</fund>
+	</stock>
+	<stock id="7">
+		 <ticker>T.PA </ticker>
+		 <exchange>OTC</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.3125</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>5.270</yield>
+		 <sec></sec>
+		 <payable>2020-05-01</payable>
+		 <record>2020-04-09</record>
+		 <ex_dividend>2020-04-08</ex_dividend>
+		 <timestamp>2020-03-27 17:09</timestamp>
+		 <fund>AT&amp;T Inc. 5 DEP RP PFD A</fund>
+	</stock>
+	<stock id="8">
+		 <ticker>EAD </ticker>
+		 <exchange>NYSEMKT</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.0597</dividend>
+		 <distribution>monthly</distribution>
+		 <yield>11.630</yield>
+		 <sec></sec>
+		 <payable>2020-05-01</payable>
+		 <record>2020-04-14</record>
+		 <ex_dividend>2020-04-13</ex_dividend>
+		 <timestamp>2020-03-27 17:08</timestamp>
+		 <fund>Wells Fargo Advantage Income Opportunities Fund</fund>
+	</stock>
+	<stock id="9">
+		 <ticker>ERH </ticker>
+		 <exchange>NYSEMKT</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.0810</dividend>
+		 <distribution>monthly</distribution>
+		 <yield></yield>
+		 <sec></sec>
+		 <payable>2020-05-01</payable>
+		 <record>2020-04-14</record>
+		 <ex_dividend>2020-04-13</ex_dividend>
+		 <timestamp>2020-03-27 17:06</timestamp>
+		 <fund>Wells Fargo Advantage Utilities &amp; High Income Fund</fund>
+	</stock>
+	<stock id="10">
+		 <ticker>ERC </ticker>
+		 <exchange>NYSEMKT</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.0994</dividend>
+		 <distribution>monthly</distribution>
+		 <yield>12.520</yield>
+		 <sec></sec>
+		 <payable>2020-05-01</payable>
+		 <record>2020-04-14</record>
+		 <ex_dividend>2020-04-13</ex_dividend>
+		 <timestamp>2020-03-27 17:04</timestamp>
+		 <fund>Wells Fargo Multi-Sector Income Fund</fund>
+	</stock>
+	<stock id="11">
+		 <ticker>RVSB </ticker>
+		 <exchange>NASDAQ</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.0500</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>4.020</yield>
+		 <sec></sec>
+		 <payable>2020-04-22</payable>
+		 <record>2020-04-09</record>
+		 <ex_dividend>2020-04-08</ex_dividend>
+		 <timestamp>2020-03-27 16:53</timestamp>
+		 <fund>Riverview Bancorp</fund>
+	</stock>
+	<stock id="12">
+		 <ticker>TPX </ticker>
+		 <exchange>NYSE</exchange>
+		 <currency></currency>
+		 <dividend></dividend>
+		 <distribution></distribution>
+		 <yield></yield>
+		 <sec></sec>
+		 <payable></payable>
+		 <record></record>
+		 <ex_dividend></ex_dividend>
+		 <timestamp>2020-03-27 14:01</timestamp>
+		 <fund>Tempur Sealy</fund>
+	</stock>
+	<stock id="13">
+		 <ticker>WAYN </ticker>
+		 <exchange>OTC</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.2000</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>4.710</yield>
+		 <sec></sec>
+		 <payable>2020-04-29</payable>
+		 <record>2020-04-15</record>
+		 <ex_dividend>2020-04-14</ex_dividend>
+		 <timestamp>2020-03-27 13:34</timestamp>
+		 <fund>Wayne Savings</fund>
+	</stock>
+	<stock id="14">
+		 <ticker>VTHR </ticker>
+		 <exchange>NASDAQ</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.5821</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>1.870</yield>
+		 <sec>2020-02-29</sec>
+		 <payable>2020-03-31</payable>
+		 <record>2020-03-27</record>
+		 <ex_dividend>2020-03-26</ex_dividend>
+		 <timestamp>2020-03-27 12:15</timestamp>
+		 <fund>Vanguard Russell 3000 ETF</fund>
+	</stock>
+	<stock id="15">
+		 <ticker>VTWG </ticker>
+		 <exchange>NASDAQ</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.2343</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>0.480</yield>
+		 <sec>2020-02-29</sec>
+		 <payable>2020-03-31</payable>
+		 <record>2020-03-27</record>
+		 <ex_dividend>2020-03-26</ex_dividend>
+		 <timestamp>2020-03-27 12:14</timestamp>
+		 <fund>Vanguard Russell 2000 Growth ETF</fund>
+	</stock>
+	<stock id="16">
+		 <ticker>VTWV </ticker>
+		 <exchange>NASDAQ</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.1059</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>2.280</yield>
+		 <sec>2020-02-29</sec>
+		 <payable>2020-03-31</payable>
+		 <record>2020-03-27</record>
+		 <ex_dividend>2020-03-26</ex_dividend>
+		 <timestamp>2020-03-27 12:14</timestamp>
+		 <fund>Vanguard Russell 2000 Value ETF</fund>
+	</stock>
+	<stock id="17">
+		 <ticker>VTWO </ticker>
+		 <exchange>NASDAQ</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.1282</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>1.470</yield>
+		 <sec>2020-02-29</sec>
+		 <payable>2020-03-31</payable>
+		 <record>2020-03-27</record>
+		 <ex_dividend>2020-03-26</ex_dividend>
+		 <timestamp>2020-03-27 12:14</timestamp>
+		 <fund>Vanguard Russell 2000 ETF</fund>
+	</stock>
+	<stock id="18">
+		 <ticker>VONG </ticker>
+		 <exchange>NASDAQ</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.4918</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>1.160</yield>
+		 <sec>2020-02-29</sec>
+		 <payable>2020-03-31</payable>
+		 <record>2020-03-27</record>
+		 <ex_dividend>2020-03-26</ex_dividend>
+		 <timestamp>2020-03-27 12:13</timestamp>
+		 <fund>Vanguard Russell 1000 Growth ETF</fund>
+	</stock>
+	<stock id="19">
+		 <ticker>VONV </ticker>
+		 <exchange>NASDAQ</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.7137</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>2.800</yield>
+		 <sec>2020-02-29</sec>
+		 <payable>2020-03-31</payable>
+		 <record>2020-03-27</record>
+		 <ex_dividend>2020-03-26</ex_dividend>
+		 <timestamp>2020-03-27 12:13</timestamp>
+		 <fund>Vanguard Russell 1000 Value ETF</fund>
+	</stock>
+	<stock id="20">
+		 <ticker>VONE </ticker>
+		 <exchange>NASDAQ</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.6364</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>1.920</yield>
+		 <sec>2020-02-29</sec>
+		 <payable>2020-03-31</payable>
+		 <record>2020-03-27</record>
+		 <ex_dividend>2020-03-26</ex_dividend>
+		 <timestamp>2020-03-27 12:12</timestamp>
+		 <fund>Vanguard Russell 1000 ETF</fund>
+	</stock>
+	<stock id="21">
+		 <ticker>MGV </ticker>
+		 <exchange>NYSEARCA</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.5072</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>3.050</yield>
+		 <sec>2020-02-29</sec>
+		 <payable>2020-03-31</payable>
+		 <record>2020-03-27</record>
+		 <ex_dividend>2020-03-26</ex_dividend>
+		 <timestamp>2020-03-27 12:12</timestamp>
+		 <fund>Vanguard Mega Cap Value ETF</fund>
+	</stock>
+	<stock id="22">
+		 <ticker>MGK </ticker>
+		 <exchange>NYSEARCA</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.3047</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>1.000</yield>
+		 <sec>2020-02-29</sec>
+		 <payable>2020-03-31</payable>
+		 <record>2020-03-27</record>
+		 <ex_dividend>2020-03-26</ex_dividend>
+		 <timestamp>2020-03-27 12:11</timestamp>
+		 <fund>Vanguard Mega Cap Growth ETF</fund>
+	</stock>
+	<stock id="23">
+		 <ticker>MGC </ticker>
+		 <exchange>NYSEARCA</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.4619</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>1.980</yield>
+		 <sec>2020-02-29</sec>
+		 <payable>2020-03-31</payable>
+		 <record>2020-03-27</record>
+		 <ex_dividend>2020-03-26</ex_dividend>
+		 <timestamp>2020-03-27 12:11</timestamp>
+		 <fund>Vanguard Mega Cap ETF</fund>
+	</stock>
+	<stock id="24">
+		 <ticker>VUG </ticker>
+		 <exchange>NYSEARCA</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.3983</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>1.020</yield>
+		 <sec>2020-02-29</sec>
+		 <payable>2020-03-31</payable>
+		 <record>2020-03-27</record>
+		 <ex_dividend>2020-03-26</ex_dividend>
+		 <timestamp>2020-03-27 12:10</timestamp>
+		 <fund>Vanguard Growth ETF</fund>
+	</stock>
+	<stock id="25">
+		 <ticker>VTV </ticker>
+		 <exchange>NYSEARCA</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.7605</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>3.010</yield>
+		 <sec>2020-02-29</sec>
+		 <payable>2020-03-31</payable>
+		 <record>2020-03-27</record>
+		 <ex_dividend>2020-03-26</ex_dividend>
+		 <timestamp>2020-03-27 12:10</timestamp>
+		 <fund>Vanguard Value ETF</fund>
+	</stock>
+	<stock id="26">
+		 <ticker>VV </ticker>
+		 <exchange>NYSEARCA</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.6390</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>1.970</yield>
+		 <sec>2020-02-29</sec>
+		 <payable>2020-03-31</payable>
+		 <record>2020-03-27</record>
+		 <ex_dividend>2020-03-26</ex_dividend>
+		 <timestamp>2020-03-27 12:09</timestamp>
+		 <fund>Vanguard Large-Cap ETF</fund>
+	</stock>
+	<stock id="27">
+		 <ticker>VXF </ticker>
+		 <exchange>NYSEARCA</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.1660</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>1.520</yield>
+		 <sec>2020-02-29</sec>
+		 <payable>2020-03-31</payable>
+		 <record>2020-03-27</record>
+		 <ex_dividend>2020-03-26</ex_dividend>
+		 <timestamp>2020-03-27 12:09</timestamp>
+		 <fund>Vanguard Extended Market ETF</fund>
+	</stock>
+	<stock id="28">
+		 <ticker>VTI </ticker>
+		 <exchange>NYSEARCA</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.6136</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>1.950</yield>
+		 <sec>2020-02-29</sec>
+		 <payable>2020-03-31</payable>
+		 <record>2020-03-27</record>
+		 <ex_dividend>2020-03-26</ex_dividend>
+		 <timestamp>2020-03-27 12:08</timestamp>
+		 <fund>Vanguard Total Stock Market ETF</fund>
+	</stock>
+	<stock id="29">
+		 <ticker>VIG </ticker>
+		 <exchange>NYSEARCA</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.4740</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>1.960</yield>
+		 <sec>2020-02-29</sec>
+		 <payable>2020-03-31</payable>
+		 <record>2020-03-27</record>
+		 <ex_dividend>2020-03-26</ex_dividend>
+		 <timestamp>2020-03-27 12:08</timestamp>
+		 <fund>Vanguard Dividend Appreciation ETF</fund>
+	</stock>
+	<stock id="30">
+		 <ticker>T </ticker>
+		 <exchange>NYSE</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.5200</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>6.880</yield>
+		 <sec></sec>
+		 <payable>2020-05-01</payable>
+		 <record>2020-04-09</record>
+		 <ex_dividend>2020-04-08</ex_dividend>
+		 <timestamp>2020-03-27 11:35</timestamp>
+		 <fund>AT&amp;T</fund>
+	</stock>
+	<stock id="31">
+		 <ticker>ARI </ticker>
+		 <exchange>NYSE</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.4000</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield></yield>
+		 <sec></sec>
+		 <payable>2020-04-15</payable>
+		 <record>2020-03-31</record>
+		 <ex_dividend>2020-03-30</ex_dividend>
+		 <timestamp>2020-03-27 11:14</timestamp>
+		 <fund>Apollo Commercial Real Estate Finance</fund>
+	</stock>
+	<stock id="32">
+		 <ticker>VER </ticker>
+		 <exchange>NYSE</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.1375</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield></yield>
+		 <sec></sec>
+		 <payable>2020-04-15</payable>
+		 <record>2020-03-31</record>
+		 <ex_dividend>2020-03-30</ex_dividend>
+		 <timestamp>2020-03-27 11:13</timestamp>
+		 <fund>VEREIT</fund>
+	</stock>
+	<stock id="33">
+		 <ticker>ABCB </ticker>
+		 <exchange>NASDAQ</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.1500</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield></yield>
+		 <sec></sec>
+		 <payable>2020-04-10</payable>
+		 <record>2020-03-31</record>
+		 <ex_dividend>2020-03-30</ex_dividend>
+		 <timestamp>2020-03-27 11:12</timestamp>
+		 <fund>Ameris Bancorp</fund>
+	</stock>
+	<stock id="34">
+		 <ticker>ABB </ticker>
+		 <exchange>NYSE</exchange>
+		 <currency>CHF</currency>
+		 <dividend>0.8000</dividend>
+		 <distribution>annual</distribution>
+		 <yield></yield>
+		 <sec></sec>
+		 <payable></payable>
+		 <record>2020-03-31</record>
+		 <ex_dividend>2020-03-30</ex_dividend>
+		 <timestamp>2020-03-27 10:47</timestamp>
+		 <fund>ABB</fund>
+	</stock>
+	<stock id="35">
+		 <ticker>VYM  | VIG  | SPHD </ticker>
+		 <exchange></exchange>
+		 <currency></currency>
+		 <dividend></dividend>
+		 <distribution></distribution>
+		 <yield></yield>
+		 <sec></sec>
+		 <payable></payable>
+		 <record></record>
+		 <ex_dividend></ex_dividend>
+		 <timestamp>2020-03-27 10:34</timestamp>
+		 <fund>"As of March 25, our forecast of annual growth in dividends is down 28% in the U.S. and 22% in the EU,"??write Niels Joachim Cormsen and Ralph S. J. Koijen, both of the University of Chicago's Booth School of Business in a paper analyzing the coronavirus's impact on stock prices and growth expectations."The lower bound on the change in expected dividends is -38% in the U.S. and -49% in the EU on the 2-year horizon," they add. Lower bound is forward looking and requires neither a forecasting model nor historical data.They see signs of catch-up growth in third through 10th year.Forecast of GDP growth is down by 2.2% in the U.S. and 2.8% in the EU."News about fiscal stimulus on March 24 boosts the market and long-term growth, but did not increase short-term growth expectations," they write.The paper shows "how data on dividend futures can be used to understand why stock markets fell so sharply, well beyond changes in growth expectations."ETFs: VYM, VIG, SPHD, NOBL, SDY</fund>
+	</stock>
+	<stock id="36">
+		 <ticker>ORCC </ticker>
+		 <exchange>NYSE</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.3100</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield></yield>
+		 <sec></sec>
+		 <payable></payable>
+		 <record>2020-03-31</record>
+		 <ex_dividend>2020-03-30</ex_dividend>
+		 <timestamp>2020-03-27 09:40</timestamp>
+		 <fund>Owl Rock Capital</fund>
+	</stock>
+	<stock id="37">
+		 <ticker>DL </ticker>
+		 <exchange>NYSE</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.1450</dividend>
+		 <distribution>special</distribution>
+		 <yield></yield>
+		 <sec></sec>
+		 <payable>2020-04-24</payable>
+		 <record>2020-03-31</record>
+		 <ex_dividend>2020-03-30</ex_dividend>
+		 <timestamp>2020-03-27 09:35</timestamp>
+		 <fund>China Distance Education</fund>
+	</stock>
+	<stock id="38">
+		 <ticker>BANF </ticker>
+		 <exchange>NASDAQ</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.3200</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield></yield>
+		 <sec></sec>
+		 <payable>2020-04-15</payable>
+		 <record>2020-03-31</record>
+		 <ex_dividend>2020-03-30</ex_dividend>
+		 <timestamp>2020-03-27 09:30</timestamp>
+		 <fund>BancFirst</fund>
+	</stock>
+	<stock id="39">
+		 <ticker>CLNY </ticker>
+		 <exchange>NYSE</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.1100</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield></yield>
+		 <sec></sec>
+		 <payable>2020-04-15</payable>
+		 <record>2020-03-31</record>
+		 <ex_dividend>2020-03-30</ex_dividend>
+		 <timestamp>2020-03-27 09:30</timestamp>
+		 <fund>Colony Capital</fund>
+	</stock>
+	<stock id="40">
+		 <ticker>ATAX </ticker>
+		 <exchange>NASDAQ</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.1250</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield></yield>
+		 <sec></sec>
+		 <payable>2020-04-30</payable>
+		 <record>2020-03-31</record>
+		 <ex_dividend>2020-03-30</ex_dividend>
+		 <timestamp>2020-03-27 09:28</timestamp>
+		 <fund>America First Multifamily Investors</fund>
+	</stock>
+	<stock id="41">
+		 <ticker>GFED </ticker>
+		 <exchange>NASDAQ</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.1500</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>4.140</yield>
+		 <sec></sec>
+		 <payable>2020-04-17</payable>
+		 <record>2020-04-07</record>
+		 <ex_dividend>2020-04-06</ex_dividend>
+		 <timestamp>2020-03-27 09:01</timestamp>
+		 <fund>Guaranty Federal Bancshares</fund>
+	</stock>
+	<stock id="42">
+		 <ticker>AYI </ticker>
+		 <exchange>NYSE</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.1300</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>0.610</yield>
+		 <sec></sec>
+		 <payable>2020-05-01</payable>
+		 <record>2020-04-17</record>
+		 <ex_dividend>2020-04-16</ex_dividend>
+		 <timestamp>2020-03-27 08:44</timestamp>
+		 <fund>Acuity Brands</fund>
+	</stock>
+	<stock id="43">
+		 <ticker>DHF </ticker>
+		 <exchange>NYSE</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.0215</dividend>
+		 <distribution>monthly</distribution>
+		 <yield>11.730</yield>
+		 <sec></sec>
+		 <payable>2020-04-24</payable>
+		 <record>2020-04-09</record>
+		 <ex_dividend>2020-04-08</ex_dividend>
+		 <timestamp>2020-03-27 06:16</timestamp>
+		 <fund>BNY Mellon High Yield Strategies Fund</fund>
+	</stock>
+	<stock id="44">
+		 <ticker>PWR </ticker>
+		 <exchange>NYSE</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.0500</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>0.660</yield>
+		 <sec></sec>
+		 <payable>2020-04-15</payable>
+		 <record>2020-04-06</record>
+		 <ex_dividend>2020-04-03</ex_dividend>
+		 <timestamp>2020-03-27 06:15</timestamp>
+		 <fund>Quanta Services</fund>
+	</stock>
+	<stock id="45">
+		 <ticker>BGCP </ticker>
+		 <exchange>NASDAQ</exchange>
+		 <currency></currency>
+		 <dividend></dividend>
+		 <distribution></distribution>
+		 <yield></yield>
+		 <sec></sec>
+		 <payable></payable>
+		 <record></record>
+		 <ex_dividend></ex_dividend>
+		 <timestamp>2020-03-26 23:42</timestamp>
+		 <fund>BGC Partners</fund>
+	</stock>
+	<stock id="46">
+		 <ticker>RHDGF </ticker>
+		 <exchange>OTCPK</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.5000</dividend>
+		 <distribution></distribution>
+		 <yield></yield>
+		 <sec></sec>
+		 <payable>2020-04-15</payable>
+		 <record></record>
+		 <ex_dividend></ex_dividend>
+		 <timestamp>2020-03-26 17:24</timestamp>
+		 <fund>Retail Holdings</fund>
+	</stock>
+	<stock id="47">
+		 <ticker>AI </ticker>
+		 <exchange>NYSE</exchange>
+		 <currency></currency>
+		 <dividend></dividend>
+		 <distribution></distribution>
+		 <yield></yield>
+		 <sec></sec>
+		 <payable></payable>
+		 <record></record>
+		 <ex_dividend></ex_dividend>
+		 <timestamp>2020-03-26 16:53</timestamp>
+		 <fund>Arlington Asset Investment</fund>
+	</stock>
+	<stock id="48">
+		 <ticker>FRD </ticker>
+		 <exchange>NYSEMKT</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.0200</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>1.850</yield>
+		 <sec></sec>
+		 <payable>2020-05-22</payable>
+		 <record>2020-04-24</record>
+		 <ex_dividend>2020-04-23</ex_dividend>
+		 <timestamp>2020-03-26 16:46</timestamp>
+		 <fund>Friedman</fund>
+	</stock>
+	<stock id="49">
+		 <ticker>EQT </ticker>
+		 <exchange>NYSE</exchange>
+		 <currency></currency>
+		 <dividend></dividend>
+		 <distribution></distribution>
+		 <yield></yield>
+		 <sec></sec>
+		 <payable></payable>
+		 <record></record>
+		 <ex_dividend></ex_dividend>
+		 <timestamp>2020-03-26 16:40</timestamp>
+		 <fund>EQT Corporation</fund>
+	</stock>
+	<stock id="50">
+		 <ticker>OXM </ticker>
+		 <exchange>NYSE</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.2500</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>2.480</yield>
+		 <sec></sec>
+		 <payable>2020-05-01</payable>
+		 <record>2020-04-17</record>
+		 <ex_dividend>2020-04-16</ex_dividend>
+		 <timestamp>2020-03-26 16:27</timestamp>
+		 <fund>Oxford Industries</fund>
+	</stock>
+	<stock id="51">
+		 <ticker>SAIC </ticker>
+		 <exchange>NYSE</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.3700</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>2.070</yield>
+		 <sec></sec>
+		 <payable>2020-04-24</payable>
+		 <record>2020-04-09</record>
+		 <ex_dividend>2020-04-08</ex_dividend>
+		 <timestamp>2020-03-26 16:24</timestamp>
+		 <fund>Science Applications</fund>
+	</stock>
+	<stock id="52">
+		 <ticker>PRGS </ticker>
+		 <exchange>NASDAQ</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.1650</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>1.890</yield>
+		 <sec></sec>
+		 <payable>2020-06-15</payable>
+		 <record>2020-06-01</record>
+		 <ex_dividend>2020-05-29</ex_dividend>
+		 <timestamp>2020-03-26 16:24</timestamp>
+		 <fund>Progress Software</fund>
+	</stock>
+	<stock id="53">
+		 <ticker>FUNC </ticker>
+		 <exchange>NASDAQ</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.1300</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>4.070</yield>
+		 <sec></sec>
+		 <payable>2020-05-01</payable>
+		 <record>2020-04-17</record>
+		 <ex_dividend>2020-04-16</ex_dividend>
+		 <timestamp>2020-03-26 16:22</timestamp>
+		 <fund>First United</fund>
+	</stock>
+	<stock id="54">
+		 <ticker>FNLC </ticker>
+		 <exchange>NASDAQ</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.3000</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>5.770</yield>
+		 <sec></sec>
+		 <payable>2020-04-20</payable>
+		 <record>2020-04-10</record>
+		 <ex_dividend>2020-04-09</ex_dividend>
+		 <timestamp>2020-03-26 16:20</timestamp>
+		 <fund>First Bancorp</fund>
+	</stock>
+	<stock id="55">
+		 <ticker>CSBB </ticker>
+		 <exchange>OTCPK</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.2800</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>3.990</yield>
+		 <sec></sec>
+		 <payable>2020-04-21</payable>
+		 <record>2020-04-07</record>
+		 <ex_dividend>2020-04-06</ex_dividend>
+		 <timestamp>2020-03-26 16:20</timestamp>
+		 <fund>CSB Bancorp</fund>
+	</stock>
+	<stock id="56">
+		 <ticker>AEO </ticker>
+		 <exchange>NYSE</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.1375</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>6.400</yield>
+		 <sec></sec>
+		 <payable>2020-05-14</payable>
+		 <record>2020-04-30</record>
+		 <ex_dividend>2020-04-29</ex_dividend>
+		 <timestamp>2020-03-26 16:20</timestamp>
+		 <fund>American Eagle Outfitters</fund>
+	</stock>
+	<stock id="57">
+		 <ticker>LAND </ticker>
+		 <exchange>NASDAQ</exchange>
+		 <currency></currency>
+		 <dividend></dividend>
+		 <distribution></distribution>
+		 <yield></yield>
+		 <sec></sec>
+		 <payable></payable>
+		 <record></record>
+		 <ex_dividend></ex_dividend>
+		 <timestamp>2020-03-26 12:24</timestamp>
+		 <fund>Gladstone Land</fund>
+	</stock>
+	<stock id="58">
+		 <ticker>GVA </ticker>
+		 <exchange>NYSE</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.1300</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>3.740</yield>
+		 <sec></sec>
+		 <payable>2020-04-15</payable>
+		 <record>2020-03-31</record>
+		 <ex_dividend>2020-03-30</ex_dividend>
+		 <timestamp>2020-03-26 12:04</timestamp>
+		 <fund>Granite Construction</fund>
+	</stock>
+	<stock id="59">
+		 <ticker>UBFO </ticker>
+		 <exchange>NASDAQ</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.1100</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>6.470</yield>
+		 <sec></sec>
+		 <payable>2020-04-15</payable>
+		 <record>2020-04-06</record>
+		 <ex_dividend>2020-04-03</ex_dividend>
+		 <timestamp>2020-03-26 11:59</timestamp>
+		 <fund>United Security Bancshares</fund>
+	</stock>
+	<stock id="60">
+		 <ticker>ACU </ticker>
+		 <exchange>NYSEMKT</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.1200</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>2.590</yield>
+		 <sec></sec>
+		 <payable>2020-04-27</payable>
+		 <record>2020-04-06</record>
+		 <ex_dividend>2020-04-03</ex_dividend>
+		 <timestamp>2020-03-26 11:17</timestamp>
+		 <fund>Acme United</fund>
+	</stock>
+	<stock id="61">
+		 <ticker>CIB </ticker>
+		 <exchange>NYSE</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.7510</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield></yield>
+		 <sec></sec>
+		 <payable>2020-04-13</payable>
+		 <record>2020-03-30</record>
+		 <ex_dividend>2020-03-27</ex_dividend>
+		 <timestamp>2020-03-26 10:39</timestamp>
+		 <fund>Bancolombia</fund>
+	</stock>
+	<stock id="62">
+		 <ticker>BCH </ticker>
+		 <exchange>NYSE</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.5130</dividend>
+		 <distribution>annual</distribution>
+		 <yield></yield>
+		 <sec></sec>
+		 <payable></payable>
+		 <record>2020-03-30</record>
+		 <ex_dividend>2020-03-27</ex_dividend>
+		 <timestamp>2020-03-26 10:32</timestamp>
+		 <fund>Banco de Chile</fund>
+	</stock>
+	<stock id="63">
+		 <ticker>NVO </ticker>
+		 <exchange>NYSE</exchange>
+		 <currency>DKK</currency>
+		 <dividend>5.3500</dividend>
+		 <distribution>final</distribution>
+		 <yield></yield>
+		 <sec></sec>
+		 <payable>2020-04-07</payable>
+		 <record>2020-03-30</record>
+		 <ex_dividend>2020-03-27</ex_dividend>
+		 <timestamp>2020-03-26 10:24</timestamp>
+		 <fund>Novo Nordisk</fund>
+	</stock>
+	<stock id="64">
+		 <ticker>BKSC </ticker>
+		 <exchange>NASDAQ</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.1600</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>4.700</yield>
+		 <sec></sec>
+		 <payable>2020-04-30</payable>
+		 <record>2020-04-06</record>
+		 <ex_dividend>2020-04-03</ex_dividend>
+		 <timestamp>2020-03-26 10:03</timestamp>
+		 <fund>Bank of South Carolina</fund>
+	</stock>
+	<stock id="65">
+		 <ticker>GORO </ticker>
+		 <exchange>NYSEMKT</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.0033</dividend>
+		 <distribution>monthly</distribution>
+		 <yield>1.360</yield>
+		 <sec></sec>
+		 <payable>2020-04-23</payable>
+		 <record>2020-04-13</record>
+		 <ex_dividend>2020-04-10</ex_dividend>
+		 <timestamp>2020-03-26 09:17</timestamp>
+		 <fund>Gold Resource</fund>
+	</stock>
+	<stock id="66">
+		 <ticker>PK </ticker>
+		 <exchange>NYSE</exchange>
+		 <currency></currency>
+		 <dividend></dividend>
+		 <distribution></distribution>
+		 <yield></yield>
+		 <sec></sec>
+		 <payable></payable>
+		 <record></record>
+		 <ex_dividend></ex_dividend>
+		 <timestamp>2020-03-26 08:52</timestamp>
+		 <fund>Park Hotels &amp; Resorts</fund>
+	</stock>
+	<stock id="67">
+		 <ticker>CAGDF </ticker>
+		 <exchange>OTCPK</exchange>
+		 <currency>CAD</currency>
+		 <dividend>0.0400</dividend>
+		 <distribution>interim</distribution>
+		 <yield></yield>
+		 <sec></sec>
+		 <payable>2020-04-22</payable>
+		 <record>2020-04-08</record>
+		 <ex_dividend>2020-04-07</ex_dividend>
+		 <timestamp>2020-03-26 08:17</timestamp>
+		 <fund>Centerra Gold</fund>
+	</stock>
+	<stock id="68">
+		 <ticker>WSG </ticker>
+		 <exchange></exchange>
+		 <currency></currency>
+		 <dividend></dividend>
+		 <distribution></distribution>
+		 <yield></yield>
+		 <sec></sec>
+		 <payable></payable>
+		 <record></record>
+		 <ex_dividend></ex_dividend>
+		 <timestamp>2020-03-26 08:11</timestamp>
+		 <fund>Source: Press Release</fund>
+	</stock>
+	<stock id="69">
+		 <ticker>GEL </ticker>
+		 <exchange>NYSE</exchange>
+		 <currency></currency>
+		 <dividend></dividend>
+		 <distribution></distribution>
+		 <yield></yield>
+		 <sec></sec>
+		 <payable></payable>
+		 <record></record>
+		 <ex_dividend></ex_dividend>
+		 <timestamp>2020-03-26 07:51</timestamp>
+		 <fund>Genesis Energy</fund>
+	</stock>
+	<stock id="70">
+		 <ticker>MOV </ticker>
+		 <exchange>NYSE</exchange>
+		 <currency></currency>
+		 <dividend></dividend>
+		 <distribution></distribution>
+		 <yield></yield>
+		 <sec></sec>
+		 <payable></payable>
+		 <record></record>
+		 <ex_dividend></ex_dividend>
+		 <timestamp>2020-03-26 07:20</timestamp>
+		 <fund>Movado</fund>
+	</stock>
+	<stock id="71">
+		 <ticker>GPMT </ticker>
+		 <exchange>NYSE</exchange>
+		 <currency></currency>
+		 <dividend></dividend>
+		 <distribution></distribution>
+		 <yield></yield>
+		 <sec></sec>
+		 <payable></payable>
+		 <record></record>
+		 <ex_dividend></ex_dividend>
+		 <timestamp>2020-03-26 07:19</timestamp>
+		 <fund>Granite Point Mortgage Trust's</fund>
+	</stock>
+	<stock id="72">
+		 <ticker>EGBN </ticker>
+		 <exchange>NASDAQ</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.2200</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>2.930</yield>
+		 <sec></sec>
+		 <payable>2020-04-30</payable>
+		 <record>2020-04-15</record>
+		 <ex_dividend>2020-04-14</ex_dividend>
+		 <timestamp>2020-03-26 06:02</timestamp>
+		 <fund>Eagle</fund>
+	</stock>
+	<stock id="73">
+		 <ticker>CVBF </ticker>
+		 <exchange>NASDAQ</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.1800</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>3.970</yield>
+		 <sec></sec>
+		 <payable>2020-04-22</payable>
+		 <record>2020-04-08</record>
+		 <ex_dividend>2020-04-07</ex_dividend>
+		 <timestamp>2020-03-26 05:59</timestamp>
+		 <fund>CVB Financial</fund>
+	</stock>
+	<stock id="74">
+		 <ticker>MFA </ticker>
+		 <exchange>NYSE</exchange>
+		 <currency></currency>
+		 <dividend></dividend>
+		 <distribution></distribution>
+		 <yield></yield>
+		 <sec></sec>
+		 <payable></payable>
+		 <record></record>
+		 <ex_dividend></ex_dividend>
+		 <timestamp>2020-03-26 00:16</timestamp>
+		 <fund>MFA Financial</fund>
+	</stock>
+	<stock id="75">
+		 <ticker>SCVL </ticker>
+		 <exchange>NASDAQ</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.0850</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>1.690</yield>
+		 <sec></sec>
+		 <payable>2020-04-20</payable>
+		 <record>2020-04-06</record>
+		 <ex_dividend>2020-04-03</ex_dividend>
+		 <timestamp>2020-03-25 18:12</timestamp>
+		 <fund>Shoe Carnival</fund>
+	</stock>
+	<stock id="76">
+		 <ticker>DCF </ticker>
+		 <exchange>NYSE</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.0540</dividend>
+		 <distribution>monthly</distribution>
+		 <yield>10.670</yield>
+		 <sec></sec>
+		 <payable>2020-04-23</payable>
+		 <record>2020-04-08</record>
+		 <ex_dividend>2020-04-07</ex_dividend>
+		 <timestamp>2020-03-25 18:03</timestamp>
+		 <fund>Dreyfus Alcentra Global Credit Income 2024 Target Term Fund</fund>
+	</stock>
+	<stock id="77">
+		 <ticker>ISTR </ticker>
+		 <exchange>NASDAQ</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.0600</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>2.190</yield>
+		 <sec></sec>
+		 <payable>2020-04-30</payable>
+		 <record>2020-04-06</record>
+		 <ex_dividend>2020-04-03</ex_dividend>
+		 <timestamp>2020-03-25 18:02</timestamp>
+		 <fund>Investar</fund>
+	</stock>
+	<stock id="78">
+		 <ticker>PYCFF </ticker>
+		 <exchange>OTC</exchange>
+		 <currency>CAD</currency>
+		 <dividend>0.0200</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>2.510</yield>
+		 <sec></sec>
+		 <payable>2020-04-28</payable>
+		 <record>2020-04-14</record>
+		 <ex_dividend>2020-04-13</ex_dividend>
+		 <timestamp>2020-03-25 17:48</timestamp>
+		 <fund>Mount Logan Capital</fund>
+	</stock>
+	<stock id="79">
+		 <ticker>GBCI </ticker>
+		 <exchange>NASDAQ</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.2900</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>3.610</yield>
+		 <sec></sec>
+		 <payable>2020-04-16</payable>
+		 <record>2020-04-07</record>
+		 <ex_dividend>2020-04-06</ex_dividend>
+		 <timestamp>2020-03-25 17:32</timestamp>
+		 <fund>Glacier Bancorp</fund>
+	</stock>
+	<stock id="80">
+		 <ticker>CPB </ticker>
+		 <exchange>NYSE</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.3500</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>3.220</yield>
+		 <sec></sec>
+		 <payable>2020-04-27</payable>
+		 <record>2020-04-09</record>
+		 <ex_dividend>2020-04-08</ex_dividend>
+		 <timestamp>2020-03-25 17:22</timestamp>
+		 <fund>Campbell Soup</fund>
+	</stock>
+	<stock id="81">
+		 <ticker>INN </ticker>
+		 <exchange>NYSE</exchange>
+		 <currency></currency>
+		 <dividend></dividend>
+		 <distribution></distribution>
+		 <yield></yield>
+		 <sec></sec>
+		 <payable></payable>
+		 <record></record>
+		 <ex_dividend></ex_dividend>
+		 <timestamp>2020-03-25 17:12</timestamp>
+		 <fund>Summit Hotel Properties</fund>
+	</stock>
+	<stock id="82">
+		 <ticker>NBLX </ticker>
+		 <exchange>NASDAQ</exchange>
+		 <currency></currency>
+		 <dividend></dividend>
+		 <distribution></distribution>
+		 <yield></yield>
+		 <sec></sec>
+		 <payable></payable>
+		 <record></record>
+		 <ex_dividend></ex_dividend>
+		 <timestamp>2020-03-25 16:56</timestamp>
+		 <fund>Noble Midstream Partners</fund>
+	</stock>
+	<stock id="83">
+		 <ticker>SBRA </ticker>
+		 <exchange>NASDAQ</exchange>
+		 <currency></currency>
+		 <dividend></dividend>
+		 <distribution></distribution>
+		 <yield></yield>
+		 <sec></sec>
+		 <payable></payable>
+		 <record></record>
+		 <ex_dividend></ex_dividend>
+		 <timestamp>2020-03-25 16:44</timestamp>
+		 <fund>Sabra Health Care REIT</fund>
+	</stock>
+	<stock id="84">
+		 <ticker>CWYUF </ticker>
+		 <exchange>OTCPK</exchange>
+		 <currency>CAD</currency>
+		 <dividend>0.1542</dividend>
+		 <distribution>monthly</distribution>
+		 <yield>10.020</yield>
+		 <sec></sec>
+		 <payable>2020-04-15</payable>
+		 <record>2020-03-31</record>
+		 <ex_dividend>2020-03-30</ex_dividend>
+		 <timestamp>2020-03-25 16:29</timestamp>
+		 <fund>SmartCentres REIT</fund>
+	</stock>
+	<stock id="85">
+		 <ticker>PMT </ticker>
+		 <exchange>NYSE</exchange>
+		 <currency></currency>
+		 <dividend></dividend>
+		 <distribution></distribution>
+		 <yield></yield>
+		 <sec></sec>
+		 <payable></payable>
+		 <record></record>
+		 <ex_dividend></ex_dividend>
+		 <timestamp>2020-03-25 16:20</timestamp>
+		 <fund>PennyMac Mortgage Investment Trust</fund>
+	</stock>
+	<stock id="86">
+		 <ticker>CIO </ticker>
+		 <exchange>NYSE</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.1500</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>8.290</yield>
+		 <sec></sec>
+		 <payable>2020-04-24</payable>
+		 <record>2020-04-09</record>
+		 <ex_dividend>2020-04-08</ex_dividend>
+		 <timestamp>2020-03-25 16:18</timestamp>
+		 <fund>City Office REIT</fund>
+	</stock>
+	<stock id="87">
+		 <ticker>PMT </ticker>
+		 <exchange>NYSE</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.2500</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>9.810</yield>
+		 <sec></sec>
+		 <payable>2020-04-30</payable>
+		 <record>2020-04-15</record>
+		 <ex_dividend>2020-04-14</ex_dividend>
+		 <timestamp>2020-03-25 16:16</timestamp>
+		 <fund>PennyMac Mortgage Investment Trust</fund>
+	</stock>
+	<stock id="88">
+		 <ticker>TYBT </ticker>
+		 <exchange>OTCPK</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.6400</dividend>
+		 <distribution>semi annual</distribution>
+		 <yield>2.190</yield>
+		 <sec></sec>
+		 <payable>2020-04-30</payable>
+		 <record>2020-04-15</record>
+		 <ex_dividend>2020-04-14</ex_dividend>
+		 <timestamp>2020-03-25 16:10</timestamp>
+		 <fund>Trinity Bank</fund>
+	</stock>
+	<stock id="89">
+		 <ticker>HIFS </ticker>
+		 <exchange>NASDAQ</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.4200</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>1.180</yield>
+		 <sec></sec>
+		 <payable>2020-04-15</payable>
+		 <record>2020-04-06</record>
+		 <ex_dividend>2020-04-03</ex_dividend>
+		 <timestamp>2020-03-25 16:04</timestamp>
+		 <fund>Hingham Institution for Savings</fund>
+	</stock>
+	<stock id="90">
+		 <ticker>RBS </ticker>
+		 <exchange>NYSE</exchange>
+		 <currency>GBP</currency>
+		 <dividend>0.0300</dividend>
+		 <distribution></distribution>
+		 <yield></yield>
+		 <sec></sec>
+		 <payable>2020-05-04</payable>
+		 <record>2020-03-27</record>
+		 <ex_dividend>2020-03-26</ex_dividend>
+		 <timestamp>2020-03-25 12:49</timestamp>
+		 <fund>The Royal Bank of Scotland</fund>
+	</stock>
+	<stock id="91">
+		 <ticker>WOR </ticker>
+		 <exchange>NYSE</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.2400</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>4.070</yield>
+		 <sec></sec>
+		 <payable>2020-06-29</payable>
+		 <record>2020-06-15</record>
+		 <ex_dividend>2020-06-12</ex_dividend>
+		 <timestamp>2020-03-25 12:26</timestamp>
+		 <fund>Worthington</fund>
+	</stock>
+	<stock id="92">
+		 <ticker>PUK </ticker>
+		 <exchange>NYSE</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.2597</dividend>
+		 <distribution>interim</distribution>
+		 <yield></yield>
+		 <sec></sec>
+		 <payable>2020-05-15</payable>
+		 <record>2020-03-27</record>
+		 <ex_dividend>2020-03-26</ex_dividend>
+		 <timestamp>2020-03-25 10:14</timestamp>
+		 <fund>Prudential</fund>
+	</stock>
+	<stock id="93">
+		 <ticker>PSO </ticker>
+		 <exchange>NYSE</exchange>
+		 <currency>GBP</currency>
+		 <dividend>0.1350</dividend>
+		 <distribution>final</distribution>
+		 <yield></yield>
+		 <sec></sec>
+		 <payable></payable>
+		 <record>2020-03-27</record>
+		 <ex_dividend>2020-03-26</ex_dividend>
+		 <timestamp>2020-03-25 10:09</timestamp>
+		 <fund>Pearson</fund>
+	</stock>
+	<stock id="94">
+		 <ticker>BTI  | BATMF  | BTAFF </ticker>
+		 <exchange>NYSE</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.6720</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield></yield>
+		 <sec></sec>
+		 <payable>2020-05-18</payable>
+		 <record>2020-03-27</record>
+		 <ex_dividend>2020-03-26</ex_dividend>
+		 <timestamp>2020-03-25 10:02</timestamp>
+		 <fund>British American Tobacco</fund>
+	</stock>
+	<stock id="95">
+		 <ticker>ALCO </ticker>
+		 <exchange>NASDAQ</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.0900</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield></yield>
+		 <sec></sec>
+		 <payable>2020-04-10</payable>
+		 <record>2020-03-27</record>
+		 <ex_dividend>2020-03-26</ex_dividend>
+		 <timestamp>2020-03-25 09:44</timestamp>
+		 <fund>Alico</fund>
+	</stock>
+	<stock id="96">
+		 <ticker>ESLT </ticker>
+		 <exchange>NASDAQ</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.4400</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>1.450</yield>
+		 <sec></sec>
+		 <payable>2020-04-20</payable>
+		 <record>2020-04-06</record>
+		 <ex_dividend>2020-04-03</ex_dividend>
+		 <timestamp>2020-03-25 09:31</timestamp>
+		 <fund>Elbit Systems</fund>
+	</stock>
+	<stock id="97">
+		 <ticker>AGFMF </ticker>
+		 <exchange>OTCPK</exchange>
+		 <currency>CAD</currency>
+		 <dividend>0.0800</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>12.420</yield>
+		 <sec></sec>
+		 <payable>2020-04-20</payable>
+		 <record>2020-04-10</record>
+		 <ex_dividend>2020-04-09</ex_dividend>
+		 <timestamp>2020-03-25 09:28</timestamp>
+		 <fund>AGF Management</fund>
+	</stock>
+	<stock id="98">
+		 <ticker>BANR </ticker>
+		 <exchange>NASDAQ</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.4100</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>5.220</yield>
+		 <sec></sec>
+		 <payable>2020-04-17</payable>
+		 <record>2020-04-08</record>
+		 <ex_dividend>2020-04-07</ex_dividend>
+		 <timestamp>2020-03-25 09:07</timestamp>
+		 <fund>Banner</fund>
+	</stock>
+	<stock id="99">
+		 <ticker>SOMC </ticker>
+		 <exchange>OTCPK</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.2300</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>3.380</yield>
+		 <sec></sec>
+		 <payable>2020-04-24</payable>
+		 <record>2020-04-10</record>
+		 <ex_dividend>2020-04-09</ex_dividend>
+		 <timestamp>2020-03-25 08:20</timestamp>
+		 <fund>Southern Michigan</fund>
+	</stock>
+	<stock id="100">
+		 <ticker>SLG.PI </ticker>
+		 <exchange>NYSE</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.4063</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>7.180</yield>
+		 <sec></sec>
+		 <payable>2020-04-15</payable>
+		 <record>2020-03-31</record>
+		 <ex_dividend>2020-03-30</ex_dividend>
+		 <timestamp>2020-03-25 07:49</timestamp>
+		 <fund>SL Green Realty Corp. PFD SER I</fund>
+	</stock>
+	<stock id="101">
+		 <ticker>SLG </ticker>
+		 <exchange>NYSE</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.2950</dividend>
+		 <distribution>monthly</distribution>
+		 <yield>7.510</yield>
+		 <sec></sec>
+		 <payable>2020-04-15</payable>
+		 <record>2020-03-31</record>
+		 <ex_dividend>2020-03-30</ex_dividend>
+		 <timestamp>2020-03-25 07:47</timestamp>
+		 <fund>SL Green Realty</fund>
+	</stock>
+	<stock id="102">
+		 <ticker>MIELY  | MIELF </ticker>
+		 <exchange>OTCPK</exchange>
+		 <currency></currency>
+		 <dividend>2,020.0000</dividend>
+		 <distribution></distribution>
+		 <yield></yield>
+		 <sec></sec>
+		 <payable></payable>
+		 <record></record>
+		 <ex_dividend></ex_dividend>
+		 <timestamp>2020-03-25 06:44</timestamp>
+		 <fund>Mitsubishi Electric</fund>
+	</stock>
+	<stock id="103">
+		 <ticker>TWO </ticker>
+		 <exchange>NYSE</exchange>
+		 <currency></currency>
+		 <dividend></dividend>
+		 <distribution></distribution>
+		 <yield></yield>
+		 <sec></sec>
+		 <payable></payable>
+		 <record></record>
+		 <ex_dividend></ex_dividend>
+		 <timestamp>2020-03-25 01:55</timestamp>
+		 <fund>"As a result of the volatile market conditions related to the COVID-19 pandemic," Two Harbors</fund>
+	</stock>
+	<stock id="104">
+		 <ticker>SCS </ticker>
+		 <exchange>NYSE</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.0700</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>2.960</yield>
+		 <sec></sec>
+		 <payable>2020-04-17</payable>
+		 <record>2020-04-03</record>
+		 <ex_dividend>2020-04-02</ex_dividend>
+		 <timestamp>2020-03-24 16:42</timestamp>
+		 <fund>Steelcase</fund>
+	</stock>
+	<stock id="105">
+		 <ticker>WSBF </ticker>
+		 <exchange>NASDAQ</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.1200</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>3.630</yield>
+		 <sec></sec>
+		 <payable>2020-05-01</payable>
+		 <record>2020-04-10</record>
+		 <ex_dividend>2020-04-09</ex_dividend>
+		 <timestamp>2020-03-24 16:16</timestamp>
+		 <fund>Waterstone Financial</fund>
+	</stock>
+	<stock id="106">
+		 <ticker>FBVA </ticker>
+		 <exchange>OTCPK</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.1200</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>3.490</yield>
+		 <sec></sec>
+		 <payable>2020-04-15</payable>
+		 <record>2020-04-01</record>
+		 <ex_dividend>2020-03-31</ex_dividend>
+		 <timestamp>2020-03-24 16:03</timestamp>
+		 <fund>Farmers Bankshares</fund>
+	</stock>
+	<stock id="107">
+		 <ticker>LMNR </ticker>
+		 <exchange>NASDAQ</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.0750</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>2.200</yield>
+		 <sec></sec>
+		 <payable>2020-04-17</payable>
+		 <record>2020-04-06</record>
+		 <ex_dividend>2020-04-03</ex_dividend>
+		 <timestamp>2020-03-24 16:02</timestamp>
+		 <fund>Limoneira Company</fund>
+	</stock>
+	<stock id="108">
+		 <ticker>DVDDF </ticker>
+		 <exchange>OTC</exchange>
+		 <currency></currency>
+		 <dividend></dividend>
+		 <distribution></distribution>
+		 <yield></yield>
+		 <sec></sec>
+		 <payable></payable>
+		 <record></record>
+		 <ex_dividend></ex_dividend>
+		 <timestamp>2020-03-24 10:24</timestamp>
+		 <fund>Dividend 15 Split Corp. II</fund>
+	</stock>
+	<stock id="109">
+		 <ticker>CNDCF </ticker>
+		 <exchange>OTC</exchange>
+		 <currency></currency>
+		 <dividend></dividend>
+		 <distribution></distribution>
+		 <yield></yield>
+		 <sec></sec>
+		 <payable></payable>
+		 <record></record>
+		 <ex_dividend></ex_dividend>
+		 <timestamp>2020-03-24 10:08</timestamp>
+		 <fund>Canadian Banc Corp.</fund>
+	</stock>
+	<stock id="110">
+		 <ticker>DVSPF </ticker>
+		 <exchange></exchange>
+		 <currency></currency>
+		 <dividend></dividend>
+		 <distribution></distribution>
+		 <yield></yield>
+		 <sec></sec>
+		 <payable></payable>
+		 <record></record>
+		 <ex_dividend></ex_dividend>
+		 <timestamp>2020-03-24 10:05</timestamp>
+		 <fund>Dividend 15 Split Corp.</fund>
+	</stock>
+	<stock id="111">
+		 <ticker>FNNCF </ticker>
+		 <exchange>OTC</exchange>
+		 <currency></currency>
+		 <dividend></dividend>
+		 <distribution></distribution>
+		 <yield></yield>
+		 <sec></sec>
+		 <payable></payable>
+		 <record></record>
+		 <ex_dividend></ex_dividend>
+		 <timestamp>2020-03-24 10:01</timestamp>
+		 <fund>Financial 15 Split Corp.</fund>
+	</stock>
+	<stock id="112">
+		 <ticker>XLSR </ticker>
+		 <exchange>NYSEARCA</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.1249</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>1.580</yield>
+		 <sec>2020-03-20</sec>
+		 <payable>2020-03-27</payable>
+		 <record>2020-03-25</record>
+		 <ex_dividend>2020-03-24</ex_dividend>
+		 <timestamp>2020-03-24 09:59</timestamp>
+		 <fund>SPDR SSGA US Sector Rotation ETF</fund>
+	</stock>
+	<stock id="113">
+		 <ticker>PRRWF </ticker>
+		 <exchange>OTC</exchange>
+		 <currency>CAD</currency>
+		 <dividend>0.0380</dividend>
+		 <distribution>monthly</distribution>
+		 <yield>1.440</yield>
+		 <sec></sec>
+		 <payable>2020-04-15</payable>
+		 <record>2020-03-31</record>
+		 <ex_dividend>2020-03-30</ex_dividend>
+		 <timestamp>2020-03-24 09:35</timestamp>
+		 <fund>Park Lawn Corporation</fund>
+	</stock>
+	<stock id="114">
+		 <ticker>SISXF </ticker>
+		 <exchange>OTCPK</exchange>
+		 <currency>CAD</currency>
+		 <dividend>0.0383</dividend>
+		 <distribution>monthly</distribution>
+		 <yield>5.940</yield>
+		 <sec></sec>
+		 <payable>2020-04-09</payable>
+		 <record>2020-03-31</record>
+		 <ex_dividend>2020-03-30</ex_dividend>
+		 <timestamp>2020-03-24 08:15</timestamp>
+		 <fund>Savaria</fund>
+	</stock>
+	<stock id="115">
+		 <ticker>IVR </ticker>
+		 <exchange>NYSE</exchange>
+		 <currency></currency>
+		 <dividend></dividend>
+		 <distribution></distribution>
+		 <yield></yield>
+		 <sec></sec>
+		 <payable></payable>
+		 <record></record>
+		 <ex_dividend></ex_dividend>
+		 <timestamp>2020-03-24 07:11</timestamp>
+		 <fund>Invesco Mortgage Capital</fund>
+	</stock>
+	<stock id="116">
+		 <ticker>NAT </ticker>
+		 <exchange>NYSE</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.1400</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>22.050</yield>
+		 <sec></sec>
+		 <payable>2020-06-05</payable>
+		 <record>2020-05-26</record>
+		 <ex_dividend>2020-05-22</ex_dividend>
+		 <timestamp>2020-03-24 07:00</timestamp>
+		 <fund>Nordic American Tankers</fund>
+	</stock>
+	<stock id="117">
+		 <ticker>GNL.PB </ticker>
+		 <exchange>OTC</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.4297</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>11.990</yield>
+		 <sec></sec>
+		 <payable>2020-04-15</payable>
+		 <record>2020-04-03</record>
+		 <ex_dividend>2020-04-02</ex_dividend>
+		 <timestamp>2020-03-24 06:45</timestamp>
+		 <fund>Global Net Lease 6.875% Series B Cumulative Redeemable Perpetual Preferred Stock</fund>
+	</stock>
+	<stock id="118">
+		 <ticker>GNL.PA </ticker>
+		 <exchange>NYSE</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.4531</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>12.990</yield>
+		 <sec></sec>
+		 <payable>2020-04-15</payable>
+		 <record>2020-04-03</record>
+		 <ex_dividend>2020-04-02</ex_dividend>
+		 <timestamp>2020-03-24 06:43</timestamp>
+		 <fund>Global Net Lease Cum Red Preferred Registered Shs Series A</fund>
+	</stock>
+	<stock id="119">
+		 <ticker>AFINP </ticker>
+		 <exchange>NASDAQ</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.4700</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>14.570</yield>
+		 <sec></sec>
+		 <payable>2020-04-15</payable>
+		 <record>2020-04-03</record>
+		 <ex_dividend>2020-04-02</ex_dividend>
+		 <timestamp>2020-03-24 06:37</timestamp>
+		 <fund>American Finance Trust 7.50% PFD A</fund>
+	</stock>
+	<stock id="120">
+		 <ticker>CMCO </ticker>
+		 <exchange>NASDAQ</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.0600</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>1.120</yield>
+		 <sec></sec>
+		 <payable>2020-05-14</payable>
+		 <record>2020-05-04</record>
+		 <ex_dividend>2020-05-01</ex_dividend>
+		 <timestamp>2020-03-24 06:36</timestamp>
+		 <fund>Columbus McKinnon</fund>
+	</stock>
+	<stock id="121">
+		 <ticker>HTIA </ticker>
+		 <exchange>NASDAQ</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.4609</dividend>
+		 <distribution></distribution>
+		 <yield></yield>
+		 <sec></sec>
+		 <payable>2020-04-15</payable>
+		 <record>2020-04-03</record>
+		 <ex_dividend>2020-04-02</ex_dividend>
+		 <timestamp>2020-03-24 06:19</timestamp>
+		 <fund>Healthcare Trust 7.375% Series A Cumulative Redeemable Perpetual Preferred Stock</fund>
+	</stock>
+	<stock id="122">
+		 <ticker>GROW </ticker>
+		 <exchange>NASDAQ</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.0025</dividend>
+		 <distribution>monthly</distribution>
+		 <yield>3.330</yield>
+		 <sec></sec>
+		 <payable></payable>
+		 <record></record>
+		 <ex_dividend></ex_dividend>
+		 <timestamp>2020-03-23 17:52</timestamp>
+		 <fund>U.S. Global Investors</fund>
+	</stock>
+	<stock id="123">
+		 <ticker>HRL </ticker>
+		 <exchange>NYSE</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.2325</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>2.060</yield>
+		 <sec></sec>
+		 <payable>2020-05-15</payable>
+		 <record>2020-04-13</record>
+		 <ex_dividend>2020-04-09</ex_dividend>
+		 <timestamp>2020-03-23 17:12</timestamp>
+		 <fund>Hormel Foods</fund>
+	</stock>
+	<stock id="124">
+		 <ticker>FF </ticker>
+		 <exchange>NYSE</exchange>
+		 <currency>USD</currency>
+		 <dividend>3.0000</dividend>
+		 <distribution>special</distribution>
+		 <yield></yield>
+		 <sec></sec>
+		 <payable>2020-04-17</payable>
+		 <record>2020-04-03</record>
+		 <ex_dividend>2020-04-20</ex_dividend>
+		 <timestamp>2020-03-23 16:42</timestamp>
+		 <fund>FutureFuel</fund>
+	</stock>
+	<stock id="125">
+		 <ticker>SAFE </ticker>
+		 <exchange>NYSE</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.1560</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>1.180</yield>
+		 <sec></sec>
+		 <payable>2020-04-15</payable>
+		 <record>2020-03-31</record>
+		 <ex_dividend>2020-03-30</ex_dividend>
+		 <timestamp>2020-03-23 16:32</timestamp>
+		 <fund>Safehold</fund>
+	</stock>
+	<stock id="126">
+		 <ticker>SAN </ticker>
+		 <exchange>NYSE</exchange>
+		 <currency></currency>
+		 <dividend></dividend>
+		 <distribution></distribution>
+		 <yield></yield>
+		 <sec></sec>
+		 <payable></payable>
+		 <record></record>
+		 <ex_dividend></ex_dividend>
+		 <timestamp>2020-03-23 16:25</timestamp>
+		 <fund>Banco Santander</fund>
+	</stock>
+	<stock id="127">
+		 <ticker>FIF </ticker>
+		 <exchange>NYSE</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.1100</dividend>
+		 <distribution>monthly</distribution>
+		 <yield>20.090</yield>
+		 <sec></sec>
+		 <payable>2020-04-15</payable>
+		 <record>2020-04-02</record>
+		 <ex_dividend>2020-04-01</ex_dividend>
+		 <timestamp>2020-03-23 16:19</timestamp>
+		 <fund>First Trust Energy Infrastructure Fund</fund>
+	</stock>
+	<stock id="128">
+		 <ticker>AFB </ticker>
+		 <exchange>NYSE</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.0458</dividend>
+		 <distribution>monthly</distribution>
+		 <yield>4.940</yield>
+		 <sec></sec>
+		 <payable>2020-04-17</payable>
+		 <record>2020-04-03</record>
+		 <ex_dividend>2020-04-02</ex_dividend>
+		 <timestamp>2020-03-23 16:17</timestamp>
+		 <fund>AllianceBernstein National Municipal Income</fund>
+	</stock>
+	<stock id="129">
+		 <ticker>AWF </ticker>
+		 <exchange>NYSE</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.0655</dividend>
+		 <distribution>monthly</distribution>
+		 <yield>8.860</yield>
+		 <sec></sec>
+		 <payable>2020-04-17</payable>
+		 <record>2020-04-03</record>
+		 <ex_dividend>2020-04-02</ex_dividend>
+		 <timestamp>2020-03-23 16:16</timestamp>
+		 <fund>AllianceBernstein Global High Income Fund</fund>
+	</stock>
+	<stock id="130">
+		 <ticker>TDBSF </ticker>
+		 <exchange>OTC</exchange>
+		 <currency>CAD</currency>
+		 <dividend>0.0438</dividend>
+		 <distribution>monthly</distribution>
+		 <yield>8.460</yield>
+		 <sec></sec>
+		 <payable>2020-04-09</payable>
+		 <record>2020-03-31</record>
+		 <ex_dividend>2020-03-30</ex_dividend>
+		 <timestamp>2020-03-23 16:11</timestamp>
+		 <fund>TDB Split Corp</fund>
+	</stock>
+	<stock id="131">
+		 <ticker>DVVDF </ticker>
+		 <exchange>OTCPK</exchange>
+		 <currency>CAD</currency>
+		 <dividend>0.0589</dividend>
+		 <distribution>monthly</distribution>
+		 <yield>8.530</yield>
+		 <sec></sec>
+		 <payable>2020-04-09</payable>
+		 <record>2020-03-31</record>
+		 <ex_dividend>2020-03-30</ex_dividend>
+		 <timestamp>2020-03-23 16:09</timestamp>
+		 <fund>Dividend Select 15</fund>
+	</stock>
+	<stock id="132">
+		 <ticker>SPEU </ticker>
+		 <exchange>NYSEARCA</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.2027</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>3.940</yield>
+		 <sec>2020-03-20</sec>
+		 <payable>2020-03-26</payable>
+		 <record>2020-03-24</record>
+		 <ex_dividend>2020-03-23</ex_dividend>
+		 <timestamp>2020-03-23 16:09</timestamp>
+		 <fund>SPDR Portfolio Europe ETF</fund>
+	</stock>
+	<stock id="133">
+		 <ticker>SIMS </ticker>
+		 <exchange>NYSEARCA</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.0456</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>1.460</yield>
+		 <sec>2020-03-20</sec>
+		 <payable>2020-03-26</payable>
+		 <record>2020-03-24</record>
+		 <ex_dividend>2020-03-23</ex_dividend>
+		 <timestamp>2020-03-23 16:08</timestamp>
+		 <fund>SPDR S&amp;P Kensho Intelligent Structures ETF</fund>
+	</stock>
+	<stock id="134">
+		 <ticker>ROKT </ticker>
+		 <exchange>NYSEARCA</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.0526</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>1.020</yield>
+		 <sec>2020-03-20</sec>
+		 <payable>2020-03-26</payable>
+		 <record>2020-03-24</record>
+		 <ex_dividend>2020-03-23</ex_dividend>
+		 <timestamp>2020-03-23 16:08</timestamp>
+		 <fund>SPDR S&amp;P Kensho Final Frontiers ETF</fund>
+	</stock>
+	<stock id="135">
+		 <ticker>XWEB </ticker>
+		 <exchange>NYSEARCA</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.0219</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>0.160</yield>
+		 <sec>2020-03-20</sec>
+		 <payable>2020-03-26</payable>
+		 <record>2020-03-24</record>
+		 <ex_dividend>2020-03-23</ex_dividend>
+		 <timestamp>2020-03-23 16:08</timestamp>
+		 <fund>SPDR S&amp;P Internet ETF</fund>
+	</stock>
+	<stock id="136">
+		 <ticker>XTH </ticker>
+		 <exchange>NYSEARCA</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.1229</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>1.190</yield>
+		 <sec>2020-03-20</sec>
+		 <payable>2020-03-26</payable>
+		 <record>2020-03-24</record>
+		 <ex_dividend>2020-03-23</ex_dividend>
+		 <timestamp>2020-03-23 16:08</timestamp>
+		 <fund>SPDR S&amp;P Technology Hardware ETF</fund>
+	</stock>
+	<stock id="137">
+		 <ticker>ONEY </ticker>
+		 <exchange>NYSEARCA</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.5511</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>5.790</yield>
+		 <sec>2020-03-20</sec>
+		 <payable>2020-03-26</payable>
+		 <record>2020-03-24</record>
+		 <ex_dividend>2020-03-23</ex_dividend>
+		 <timestamp>2020-03-23 16:07</timestamp>
+		 <fund>SPDR Russell 1000 Yield Focus ETF</fund>
+	</stock>
+	<stock id="138">
+		 <ticker>ONEV </ticker>
+		 <exchange>NYSEARCA</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.4055</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>3.000</yield>
+		 <sec>2020-03-20</sec>
+		 <payable>2020-03-26</payable>
+		 <record>2020-03-24</record>
+		 <ex_dividend>2020-03-23</ex_dividend>
+		 <timestamp>2020-03-23 16:07</timestamp>
+		 <fund>SPDR Russell 1000 Low Volatility Focus ETF</fund>
+	</stock>
+	<stock id="139">
+		 <ticker>ICFNF </ticker>
+		 <exchange>OTC</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.0657</dividend>
+		 <distribution>monthly</distribution>
+		 <yield></yield>
+		 <sec></sec>
+		 <payable>2020-04-09</payable>
+		 <record>2020-03-31</record>
+		 <ex_dividend>2020-03-30</ex_dividend>
+		 <timestamp>2020-03-23 16:07</timestamp>
+		 <fund>Income Financial Trust</fund>
+	</stock>
+	<stock id="140">
+		 <ticker>ONEO </ticker>
+		 <exchange>NYSEARCA</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.3007</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>2.490</yield>
+		 <sec>2020-03-20</sec>
+		 <payable>2020-03-26</payable>
+		 <record>2020-03-24</record>
+		 <ex_dividend>2020-03-23</ex_dividend>
+		 <timestamp>2020-03-23 16:07</timestamp>
+		 <fund>SPDR Russell 1000 Momentum Focus ETF</fund>
+	</stock>
+	<stock id="141">
+		 <ticker>SPYX </ticker>
+		 <exchange>NYSEARCA</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.3329</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>2.180</yield>
+		 <sec>2020-03-20</sec>
+		 <payable>2020-03-26</payable>
+		 <record>2020-03-24</record>
+		 <ex_dividend>2020-03-23</ex_dividend>
+		 <timestamp>2020-03-23 16:06</timestamp>
+		 <fund>SPDR S&amp;P 500 Fossil Fuel Free ETF</fund>
+	</stock>
+	<stock id="142">
+		 <ticker>VLU </ticker>
+		 <exchange>NYSEARCA</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.6253</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>3.400</yield>
+		 <sec>2020-03-20</sec>
+		 <payable>2020-03-26</payable>
+		 <record>2020-03-24</record>
+		 <ex_dividend>2020-03-23</ex_dividend>
+		 <timestamp>2020-03-23 16:06</timestamp>
+		 <fund>SPDR S &amp;P 1500 Value Tilt ETF</fund>
+	</stock>
+	<stock id="143">
+		 <ticker>IEP </ticker>
+		 <exchange>NASDAQ</exchange>
+		 <currency></currency>
+		 <dividend></dividend>
+		 <distribution></distribution>
+		 <yield></yield>
+		 <sec></sec>
+		 <payable></payable>
+		 <record></record>
+		 <ex_dividend></ex_dividend>
+		 <timestamp>2020-03-23 16:06</timestamp>
+		 <fund>Icahn Enterprises LP</fund>
+	</stock>
+	<stock id="144">
+		 <ticker>MMTM </ticker>
+		 <exchange>NYSEARCA</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.5423</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>2.070</yield>
+		 <sec>2020-03-20</sec>
+		 <payable>2020-03-26</payable>
+		 <record>2020-03-24</record>
+		 <ex_dividend>2020-03-23</ex_dividend>
+		 <timestamp>2020-03-23 16:06</timestamp>
+		 <fund>SPDR S&amp;P 1500 Momentum Tilt ETF</fund>
+	</stock>
+	<stock id="145">
+		 <ticker>XTN </ticker>
+		 <exchange>NYSEARCA</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.1765</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>1.600</yield>
+		 <sec>2020-03-20</sec>
+		 <payable>2020-03-26</payable>
+		 <record>2020-03-24</record>
+		 <ex_dividend>2020-03-23</ex_dividend>
+		 <timestamp>2020-03-23 16:05</timestamp>
+		 <fund>SPDR S&amp;P Transportation ETF</fund>
+	</stock>
+	<stock id="146">
+		 <ticker>XTL </ticker>
+		 <exchange>NYSEARCA</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.1505</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>1.120</yield>
+		 <sec>2020-03-20</sec>
+		 <payable>2020-03-26</payable>
+		 <record>2020-03-24</record>
+		 <ex_dividend>2020-03-23</ex_dividend>
+		 <timestamp>2020-03-23 16:05</timestamp>
+		 <fund>SPDR S&amp;P Telecom ETF</fund>
+	</stock>
+	<stock id="147">
+		 <ticker>XSW </ticker>
+		 <exchange>NYSEARCA</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.3234</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>0.180</yield>
+		 <sec>2020-03-20</sec>
+		 <payable>2020-03-26</payable>
+		 <record>2020-03-24</record>
+		 <ex_dividend>2020-03-23</ex_dividend>
+		 <timestamp>2020-03-23 16:05</timestamp>
+		 <fund>SPDR S&amp;P Software &amp; Services ETF</fund>
+	</stock>
+	<stock id="148">
+		 <ticker>XSD </ticker>
+		 <exchange>NYSEARCA</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.1158</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>0.710</yield>
+		 <sec>2020-03-20</sec>
+		 <payable>2020-03-26</payable>
+		 <record>2020-03-24</record>
+		 <ex_dividend>2020-03-23</ex_dividend>
+		 <timestamp>2020-03-23 16:05</timestamp>
+		 <fund>SPDR S&amp;P Semiconductor ETF</fund>
+	</stock>
+	<stock id="149">
+		 <ticker>XRT </ticker>
+		 <exchange>NYSEARCA</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.1749</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>2.640</yield>
+		 <sec>2020-03-20</sec>
+		 <payable>2020-03-26</payable>
+		 <record>2020-03-24</record>
+		 <ex_dividend>2020-03-23</ex_dividend>
+		 <timestamp>2020-03-23 16:04</timestamp>
+		 <fund>SPDR S&amp;P Retail ETF</fund>
+	</stock>
+	<stock id="150">
+		 <ticker>XPH </ticker>
+		 <exchange>NYSEARCA</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.0717</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>0.740</yield>
+		 <sec>2020-03-20</sec>
+		 <payable>2020-03-26</payable>
+		 <record>2020-03-24</record>
+		 <ex_dividend>2020-03-23</ex_dividend>
+		 <timestamp>2020-03-23 16:04</timestamp>
+		 <fund>SPDR S&amp;P Pharmaceuticals ETF</fund>
+	</stock>
+	<stock id="151">
+		 <ticker>XOP </ticker>
+		 <exchange>NYSEARCA</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.0946</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>4.940</yield>
+		 <sec>2020-03-20</sec>
+		 <payable>2020-03-26</payable>
+		 <record>2020-03-24</record>
+		 <ex_dividend>2020-03-23</ex_dividend>
+		 <timestamp>2020-03-23 16:04</timestamp>
+		 <fund>SPDR S&amp;P Oil &amp; Gas Exploration &amp; Production ETF</fund>
+	</stock>
+	<stock id="152">
+		 <ticker>XME </ticker>
+		 <exchange>NYSEARCA</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.0806</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>3.140</yield>
+		 <sec>2020-03-20</sec>
+		 <payable>2020-03-26</payable>
+		 <record>2020-03-24</record>
+		 <ex_dividend>2020-03-23</ex_dividend>
+		 <timestamp>2020-03-23 16:04</timestamp>
+		 <fund>SPDR S&amp;P Metals &amp; Mining ETF</fund>
+	</stock>
+	<stock id="153">
+		 <ticker>XHS </ticker>
+		 <exchange>NYSEARCA</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.0327</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>0.480</yield>
+		 <sec>2020-03-20</sec>
+		 <payable>2020-03-26</payable>
+		 <record>2020-03-24</record>
+		 <ex_dividend>2020-03-23</ex_dividend>
+		 <timestamp>2020-03-23 16:03</timestamp>
+		 <fund>SPDR S&amp;P Healthcare Services ETF</fund>
+	</stock>
+	<stock id="154">
+		 <ticker>XHB </ticker>
+		 <exchange>NYSEARCA</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.1087</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>1.590</yield>
+		 <sec>2020-03-20</sec>
+		 <payable>2020-03-26</payable>
+		 <record>2020-03-24</record>
+		 <ex_dividend>2020-03-23</ex_dividend>
+		 <timestamp>2020-03-23 16:03</timestamp>
+		 <fund>SPDR S&amp;P Homebuilders ETF</fund>
+	</stock>
+	<stock id="155">
+		 <ticker>XES </ticker>
+		 <exchange>NYSEARCA</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.0268</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>5.670</yield>
+		 <sec>2020-03-20</sec>
+		 <payable>2020-03-26</payable>
+		 <record>2020-03-24</record>
+		 <ex_dividend>2020-03-23</ex_dividend>
+		 <timestamp>2020-03-23 16:03</timestamp>
+		 <fund>SPDR S&amp;P Oil &amp; Gas Equipment &amp; Services ETF</fund>
+	</stock>
+	<stock id="156">
+		 <ticker>XAR </ticker>
+		 <exchange>NYSEARCA</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.4312</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>0.890</yield>
+		 <sec>2020-03-20</sec>
+		 <payable>2020-03-26</payable>
+		 <record>2020-03-24</record>
+		 <ex_dividend>2020-03-23</ex_dividend>
+		 <timestamp>2020-03-23 16:02</timestamp>
+		 <fund>SPDR S&amp;P Aerospace &amp; Defense ETF</fund>
+	</stock>
+	<stock id="157">
+		 <ticker>SPYV </ticker>
+		 <exchange>NYSEARCA</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.2219</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>3.790</yield>
+		 <sec>2020-03-20</sec>
+		 <payable>2020-03-26</payable>
+		 <record>2020-03-24</record>
+		 <ex_dividend>2020-03-23</ex_dividend>
+		 <timestamp>2020-03-23 16:02</timestamp>
+		 <fund>SPDR S&amp;P 500 Value ETF</fund>
+	</stock>
+	<stock id="158">
+		 <ticker>SPYG </ticker>
+		 <exchange>NYSEARCA</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.1359</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>1.510</yield>
+		 <sec>2020-03-20</sec>
+		 <payable>2020-03-26</payable>
+		 <record>2020-03-24</record>
+		 <ex_dividend>2020-03-23</ex_dividend>
+		 <timestamp>2020-03-23 16:02</timestamp>
+		 <fund>SPDR S&amp;P 500 Small Cap Growth ETF</fund>
+	</stock>
+	<stock id="159">
+		 <ticker>SLYV </ticker>
+		 <exchange>NYSEARCA</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.2625</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>3.830</yield>
+		 <sec>2020-03-20</sec>
+		 <payable>2020-03-26</payable>
+		 <record>2020-03-24</record>
+		 <ex_dividend>2020-03-23</ex_dividend>
+		 <timestamp>2020-03-23 16:02</timestamp>
+		 <fund>SPDR S&amp;P 600 Small Cap Value ETF</fund>
+	</stock>
+	<stock id="160">
+		 <ticker>SLYG </ticker>
+		 <exchange>NYSEARCA</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.1227</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>1.480</yield>
+		 <sec>2020-03-20</sec>
+		 <payable>2020-03-26</payable>
+		 <record>2020-03-24</record>
+		 <ex_dividend>2020-03-23</ex_dividend>
+		 <timestamp>2020-03-23 16:01</timestamp>
+		 <fund>SPDR S&amp;P 600 Small Cap Growth ETF</fund>
+	</stock>
+	<stock id="161">
+		 <ticker>SLY </ticker>
+		 <exchange>NYSEARCA</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.2220</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>2.700</yield>
+		 <sec>2020-03-20</sec>
+		 <payable>2020-03-26</payable>
+		 <record>2020-03-24</record>
+		 <ex_dividend>2020-03-23</ex_dividend>
+		 <timestamp>2020-03-23 16:01</timestamp>
+		 <fund>SPDR S&amp;P 600 Small Cap ETF</fund>
+	</stock>
+	<stock id="162">
+		 <ticker>RWR </ticker>
+		 <exchange>NYSEARCA</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.5829</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>5.690</yield>
+		 <sec>2020-03-20</sec>
+		 <payable>2020-03-26</payable>
+		 <record>2020-03-24</record>
+		 <ex_dividend>2020-03-23</ex_dividend>
+		 <timestamp>2020-03-23 16:01</timestamp>
+		 <fund>SPDR Dow Jones REIT ETF</fund>
+	</stock>
+	<stock id="163">
+		 <ticker>MDYV </ticker>
+		 <exchange>NYSEARCA</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.2926</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>3.790</yield>
+		 <sec>2020-03-20</sec>
+		 <payable>2020-03-26</payable>
+		 <record>2020-03-24</record>
+		 <ex_dividend>2020-03-23</ex_dividend>
+		 <timestamp>2020-03-23 16:01</timestamp>
+		 <fund>SPDR S&amp;P 400 Mid Cap Value ETF</fund>
+	</stock>
+	<stock id="164">
+		 <ticker>KRE </ticker>
+		 <exchange>NYSEARCA</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.3371</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>4.420</yield>
+		 <sec>2020-03-20</sec>
+		 <payable>2020-03-26</payable>
+		 <record>2020-03-24</record>
+		 <ex_dividend>2020-03-23</ex_dividend>
+		 <timestamp>2020-03-23 16:00</timestamp>
+		 <fund>SPDR S&amp;P Regional Banking ETF</fund>
+	</stock>
+	<stock id="165">
+		 <ticker>KIE </ticker>
+		 <exchange>NYSEARCA</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.1592</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>2.300</yield>
+		 <sec>2020-03-20</sec>
+		 <payable>2020-03-26</payable>
+		 <record>2020-03-24</record>
+		 <ex_dividend>2020-03-23</ex_dividend>
+		 <timestamp>2020-03-23 16:00</timestamp>
+		 <fund>SPDR S&amp;P Insurance ETF</fund>
+	</stock>
+	<stock id="166">
+		 <ticker>KCE </ticker>
+		 <exchange>NYSEARCA</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.4021</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>3.280</yield>
+		 <sec>2020-03-20</sec>
+		 <payable>2020-03-26</payable>
+		 <record>2020-03-24</record>
+		 <ex_dividend>2020-03-23</ex_dividend>
+		 <timestamp>2020-03-23 16:00</timestamp>
+		 <fund>SPDR S&amp;P Capital Markets ETF</fund>
+	</stock>
+	<stock id="167">
+		 <ticker>KBE </ticker>
+		 <exchange>NYSEARCA</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.1618</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>4.240</yield>
+		 <sec>2020-03-20</sec>
+		 <payable>2020-03-26</payable>
+		 <record>2020-03-24</record>
+		 <ex_dividend>2020-03-23</ex_dividend>
+		 <timestamp>2020-03-23 15:59</timestamp>
+		 <fund>SPDR S&amp;P Bank ETF</fund>
+	</stock>
+	<stock id="168">
+		 <ticker>DGT </ticker>
+		 <exchange>NYSEARCA</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.3266</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>3.410</yield>
+		 <sec>2020-03-20</sec>
+		 <payable>2020-03-26</payable>
+		 <record>2020-03-24</record>
+		 <ex_dividend>2020-03-23</ex_dividend>
+		 <timestamp>2020-03-23 15:59</timestamp>
+		 <fund>SPDR Global Dow ETF</fund>
+	</stock>
+	<stock id="169">
+		 <ticker>MDYG </ticker>
+		 <exchange>NYSEARCA</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.1110</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>1.450</yield>
+		 <sec>2020-03-20</sec>
+		 <payable>2020-03-26</payable>
+		 <record>2020-03-24</record>
+		 <ex_dividend>2020-03-23</ex_dividend>
+		 <timestamp>2020-03-23 15:59</timestamp>
+		 <fund>SPDR S&amp;P 400 Mid Cap Growth ETF</fund>
+	</stock>
+	<stock id="170">
+		 <ticker>XNTK </ticker>
+		 <exchange>NYSEARCA</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.1192</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>0.780</yield>
+		 <sec>2020-03-20</sec>
+		 <payable>2020-03-26</payable>
+		 <record>2020-03-24</record>
+		 <ex_dividend>2020-03-23</ex_dividend>
+		 <timestamp>2020-03-23 15:59</timestamp>
+		 <fund>SPDR NYSE Technology ETF</fund>
+	</stock>
+	<stock id="171">
+		 <ticker>SPTM </ticker>
+		 <exchange>NYSEARCA</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.2014</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>2.570</yield>
+		 <sec>2020-03-20</sec>
+		 <payable>2020-03-26</payable>
+		 <record>2020-03-24</record>
+		 <ex_dividend>2020-03-23</ex_dividend>
+		 <timestamp>2020-03-23 15:58</timestamp>
+		 <fund>SPDR Portfolio Total Stock Market ETF</fund>
+	</stock>
+	<stock id="172">
+		 <ticker>SPLG </ticker>
+		 <exchange>NYSEARCA</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.1778</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>2.510</yield>
+		 <sec>2020-03-20</sec>
+		 <payable>2020-03-26</payable>
+		 <record>2020-03-24</record>
+		 <ex_dividend>2020-03-23</ex_dividend>
+		 <timestamp>2020-03-23 15:58</timestamp>
+		 <fund>SPDR Portfolio Large Cap ETF</fund>
+	</stock>
+	<stock id="173">
+		 <ticker>SPMD </ticker>
+		 <exchange>NYSEARCA</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.1374</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>2.650</yield>
+		 <sec>2020-03-20</sec>
+		 <payable>2020-03-26</payable>
+		 <record>2020-03-24</record>
+		 <ex_dividend>2020-03-23</ex_dividend>
+		 <timestamp>2020-03-23 15:58</timestamp>
+		 <fund>SPDR Portfolio Mid Cap ETF</fund>
+	</stock>
+	<stock id="174">
+		 <ticker>KOMP </ticker>
+		 <exchange>NYSEARCA</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.0646</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>1.750</yield>
+		 <sec>2020-03-20</sec>
+		 <payable>2020-03-26</payable>
+		 <record>2020-03-24</record>
+		 <ex_dividend>2020-03-23</ex_dividend>
+		 <timestamp>2020-03-23 15:58</timestamp>
+		 <fund>SPDR Kensho New Economies Composite ETF</fund>
+	</stock>
+	<stock id="175">
+		 <ticker>XLRE </ticker>
+		 <exchange>NYSEARCA</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.2018</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>4.220</yield>
+		 <sec>2020-03-20</sec>
+		 <payable>2020-03-26</payable>
+		 <record>2020-03-24</record>
+		 <ex_dividend>2020-03-23</ex_dividend>
+		 <timestamp>2020-03-23 15:57</timestamp>
+		 <fund>Real Estate Select Sector SPDR Fund</fund>
+	</stock>
+	<stock id="176">
+		 <ticker>XLY </ticker>
+		 <exchange>NYSEARCA</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.4237</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>1.860</yield>
+		 <sec>2020-03-20</sec>
+		 <payable>2020-03-26</payable>
+		 <record>2020-03-24</record>
+		 <ex_dividend>2020-03-23</ex_dividend>
+		 <timestamp>2020-03-23 15:57</timestamp>
+		 <fund>Consumer Discretionary Select Sector SPDR ETF</fund>
+	</stock>
+	<stock id="177">
+		 <ticker>XLV </ticker>
+		 <exchange>NYSEARCA</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.3820</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>2.010</yield>
+		 <sec>2020-03-20</sec>
+		 <payable>2020-03-26</payable>
+		 <record>2020-03-24</record>
+		 <ex_dividend>2020-03-23</ex_dividend>
+		 <timestamp>2020-03-23 15:57</timestamp>
+		 <fund>Health Care Select Sector SPDR ETF</fund>
+	</stock>
+	<stock id="178">
+		 <ticker>XLU </ticker>
+		 <exchange>NYSEARCA</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.4740</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>4.030</yield>
+		 <sec>2020-03-20</sec>
+		 <payable>2020-03-26</payable>
+		 <record>2020-03-24</record>
+		 <ex_dividend>2020-03-23</ex_dividend>
+		 <timestamp>2020-03-23 15:56</timestamp>
+		 <fund>Utilities Select Sector SPDR ETF</fund>
+	</stock>
+	<stock id="179">
+		 <ticker>XLP </ticker>
+		 <exchange>NYSEARCA</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.2874</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>3.150</yield>
+		 <sec>2020-03-20</sec>
+		 <payable>2020-03-26</payable>
+		 <record>2020-03-24</record>
+		 <ex_dividend>2020-03-23</ex_dividend>
+		 <timestamp>2020-03-23 15:56</timestamp>
+		 <fund>Consumer Staples Select Sector SPDR ETF</fund>
+	</stock>
+	<stock id="180">
+		 <ticker>XLK </ticker>
+		 <exchange>NYSEARCA</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.3715</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>1.470</yield>
+		 <sec>2020-03-20</sec>
+		 <payable>2020-03-26</payable>
+		 <record>2020-03-24</record>
+		 <ex_dividend>2020-03-23</ex_dividend>
+		 <timestamp>2020-03-23 15:56</timestamp>
+		 <fund>Technology Select Sector SPDR ETF</fund>
+	</stock>
+	<stock id="181">
+		 <ticker>XLI </ticker>
+		 <exchange>NYSEARCA</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.3958</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>2.790</yield>
+		 <sec>2020-03-20</sec>
+		 <payable>2020-03-26</payable>
+		 <record>2020-03-24</record>
+		 <ex_dividend>2020-03-23</ex_dividend>
+		 <timestamp>2020-03-23 15:56</timestamp>
+		 <fund>Industrial Select Sector SPDR ETF</fund>
+	</stock>
+	<stock id="182">
+		 <ticker>XLF </ticker>
+		 <exchange>NYSEARCA</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.1593</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>3.060</yield>
+		 <sec>2020-03-20</sec>
+		 <payable>2020-03-26</payable>
+		 <record>2020-03-24</record>
+		 <ex_dividend>2020-03-23</ex_dividend>
+		 <timestamp>2020-03-23 15:55</timestamp>
+		 <fund>Financial Select Sector SPDR ETF</fund>
+	</stock>
+	<stock id="183">
+		 <ticker>XLE </ticker>
+		 <exchange>NYSEARCA</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.5658</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>8.960</yield>
+		 <sec>2020-03-20</sec>
+		 <payable>2020-03-26</payable>
+		 <record>2020-03-24</record>
+		 <ex_dividend>2020-03-23</ex_dividend>
+		 <timestamp>2020-03-23 15:55</timestamp>
+		 <fund>Energy Select Sector SPDR ETF</fund>
+	</stock>
+	<stock id="184">
+		 <ticker>XLC </ticker>
+		 <exchange>NYSEARCA</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.1130</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>1.070</yield>
+		 <sec>2020-03-20</sec>
+		 <payable>2020-03-26</payable>
+		 <record>2020-03-24</record>
+		 <ex_dividend>2020-03-23</ex_dividend>
+		 <timestamp>2020-03-23 15:55</timestamp>
+		 <fund>Communication Services Select Sector SPDR Fund</fund>
+	</stock>
+	<stock id="185">
+		 <ticker>XLB </ticker>
+		 <exchange>NYSEARCA</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.2699</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>2.970</yield>
+		 <sec>2020-03-20</sec>
+		 <payable>2020-03-26</payable>
+		 <record>2020-03-24</record>
+		 <ex_dividend>2020-03-23</ex_dividend>
+		 <timestamp>2020-03-23 15:55</timestamp>
+		 <fund>Materials Select Sector SPDR ETF</fund>
+	</stock>
+	<stock id="186">
+		 <ticker>RWO </ticker>
+		 <exchange>NYSEARCA</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.2787</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>5.050</yield>
+		 <sec>2020-03-20</sec>
+		 <payable>2020-03-26</payable>
+		 <record>2020-03-24</record>
+		 <ex_dividend>2020-03-23</ex_dividend>
+		 <timestamp>2020-03-23 15:54</timestamp>
+		 <fund>SPDR Dow Jones Global Real Estate ETF</fund>
+	</stock>
+	<stock id="187">
+		 <ticker>FEZ </ticker>
+		 <exchange>NYSEARCA</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.0983</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>3.620</yield>
+		 <sec>2020-03-20</sec>
+		 <payable>2020-03-26</payable>
+		 <record>2020-03-24</record>
+		 <ex_dividend>2020-03-23</ex_dividend>
+		 <timestamp>2020-03-23 15:54</timestamp>
+		 <fund>SPDR Euro STOXX 50 ETF</fund>
+	</stock>
+	<stock id="188">
+		 <ticker>DWX </ticker>
+		 <exchange>NYSEARCA</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.2411</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>4.690</yield>
+		 <sec>2020-03-20</sec>
+		 <payable>2020-03-26</payable>
+		 <record>2020-03-24</record>
+		 <ex_dividend>2020-03-23</ex_dividend>
+		 <timestamp>2020-03-23 15:54</timestamp>
+		 <fund>SPDR S&amp;P International Dividend ETF</fund>
+	</stock>
+	<stock id="189">
+		 <ticker>RWX </ticker>
+		 <exchange>NYSEARCA</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.2155</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>4.600</yield>
+		 <sec>2020-03-20</sec>
+		 <payable>2020-03-26</payable>
+		 <record>2020-03-24</record>
+		 <ex_dividend>2020-03-23</ex_dividend>
+		 <timestamp>2020-03-23 15:53</timestamp>
+		 <fund>SPDR Dow Jones International Real Estate ETF</fund>
+	</stock>
+	<stock id="190">
+		 <ticker>SPSM </ticker>
+		 <exchange>NYSEARCA</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.0993</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>268.000</yield>
+		 <sec>2020-03-20</sec>
+		 <payable>2020-03-26</payable>
+		 <record>2020-03-24</record>
+		 <ex_dividend>2020-03-23</ex_dividend>
+		 <timestamp>2020-03-23 15:53</timestamp>
+		 <fund>SPDR Portfolio Small Cap ETF</fund>
+	</stock>
+	<stock id="191">
+		 <ticker>WDIV </ticker>
+		 <exchange>NYSEARCA</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.5756</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>7.150</yield>
+		 <sec>2020-03-20</sec>
+		 <payable>2020-03-26</payable>
+		 <record>2020-03-24</record>
+		 <ex_dividend>2020-03-23</ex_dividend>
+		 <timestamp>2020-03-23 15:53</timestamp>
+		 <fund>SPDR S&amp;P Global Dividend ETF</fund>
+	</stock>
+	<stock id="192">
+		 <ticker>EDIV </ticker>
+		 <exchange>NYSEARCA</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.1849</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>5.480</yield>
+		 <sec>2020-03-20</sec>
+		 <payable>2020-03-26</payable>
+		 <record>2020-03-24</record>
+		 <ex_dividend>2020-03-23</ex_dividend>
+		 <timestamp>2020-03-23 15:53</timestamp>
+		 <fund>SPDR S&amp;P Emerging Markets Dividend ETF</fund>
+	</stock>
+	<stock id="193">
+		 <ticker>FITE </ticker>
+		 <exchange>NYSEARCA</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.3114</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>0.300</yield>
+		 <sec>2020-03-20</sec>
+		 <payable>2020-03-26</payable>
+		 <record>2020-03-24</record>
+		 <ex_dividend>2020-03-23</ex_dividend>
+		 <timestamp>2020-03-23 15:52</timestamp>
+		 <fund>SPDR S&amp;P Kensho Future Security ETF</fund>
+	</stock>
+	<stock id="194">
+		 <ticker>CNRG </ticker>
+		 <exchange>NYSEARCA</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.3091</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>5.350</yield>
+		 <sec>2020-03-20</sec>
+		 <payable>2020-03-26</payable>
+		 <record>2020-03-24</record>
+		 <ex_dividend>2020-03-23</ex_dividend>
+		 <timestamp>2020-03-23 15:52</timestamp>
+		 <fund>SPDR S&amp;P Kensho Clean Power ETF</fund>
+	</stock>
+	<stock id="195">
+		 <ticker>HAIL </ticker>
+		 <exchange>NYSEARCA</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.1507</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>3.550</yield>
+		 <sec>2020-03-20</sec>
+		 <payable>2020-03-26</payable>
+		 <record>2020-03-24</record>
+		 <ex_dividend>2020-03-23</ex_dividend>
+		 <timestamp>2020-03-23 15:52</timestamp>
+		 <fund>SPDR S&amp;P Kensho Smart Mobility ETF</fund>
+	</stock>
+	<stock id="196">
+		 <ticker>RLY </ticker>
+		 <exchange>NYSEARCA</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.0701</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>5.300</yield>
+		 <sec>2020-03-20</sec>
+		 <payable>2020-03-26</payable>
+		 <record>2020-03-24</record>
+		 <ex_dividend>2020-03-23</ex_dividend>
+		 <timestamp>2020-03-23 15:51</timestamp>
+		 <fund>SPDR SSGA Multi-Asset Real Return ETF</fund>
+	</stock>
+	<stock id="197">
+		 <ticker>INKM </ticker>
+		 <exchange>NYSEARCA</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.2379</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>6.310</yield>
+		 <sec>2020-03-20</sec>
+		 <payable>2020-03-26</payable>
+		 <record>2020-03-24</record>
+		 <ex_dividend>2020-03-23</ex_dividend>
+		 <timestamp>2020-03-23 15:51</timestamp>
+		 <fund>SPDR SSGA Income Allocation ETF</fund>
+	</stock>
+	<stock id="198">
+		 <ticker>GAL </ticker>
+		 <exchange>NYSEARCA</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.1392</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>4.110</yield>
+		 <sec>2020-03-20</sec>
+		 <payable>2020-03-26</payable>
+		 <record>2020-03-24</record>
+		 <ex_dividend>2020-03-23</ex_dividend>
+		 <timestamp>2020-03-23 15:50</timestamp>
+		 <fund>SPDR SSGA Global Allocation ETF</fund>
+	</stock>
+	<stock id="199">
+		 <ticker>CLI </ticker>
+		 <exchange>NYSE</exchange>
+		 <currency>USD</currency>
+		 <dividend>0.2000</dividend>
+		 <distribution>quarterly</distribution>
+		 <yield>5.460</yield>
+		 <sec></sec>
+		 <payable>2020-04-14</payable>
+		 <record>2020-04-02</record>
+		 <ex_dividend>2020-04-01</ex_dividend>
+		 <timestamp>2020-03-23 14:26</timestamp>
+		 <fund>Mack-Cali Realty</fund>
+	</stock>
+	<stock id="200">
+		 <ticker>SKFRY  | SKUFF </ticker>
+		 <exchange>OTCPK</exchange>
+		 <currency></currency>
+		 <dividend></dividend>
+		 <distribution></distribution>
+		 <yield></yield>
+		 <sec></sec>
+		 <payable></payable>
+		 <record></record>
+		 <ex_dividend></ex_dividend>
+		 <timestamp>2020-03-23 14:01</timestamp>
+		 <fund>AB SKF</fund>
+	</stock>
+</asOf>
